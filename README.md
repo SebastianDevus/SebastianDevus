@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @SebastianDevus.
-- 👀 I’m interested in C#.
-- 🌱 I’m currently learning C#.
-- 📫 How to reach me: you can't.
+
